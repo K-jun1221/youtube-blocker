@@ -1,2 +1,1 @@
-# FacePassExtention
 # youtube-blocker
